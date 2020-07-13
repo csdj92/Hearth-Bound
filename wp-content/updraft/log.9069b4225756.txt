@@ -1,0 +1,260 @@
+0000.011 (0) Opened log file at time: Sun, 12 Jul 2020 07:26:33 +0000 on http://localhost/wordpress
+0000.032 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.4.2 PHP: 7.4.7 (apache2handler, Windows NT MAINDESKTOP 10.0 build 18363 (Windows 10) AMD64) MySQL: 8.0.20 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 5.5M | 2M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.063 (0) Free space on disk containing Updraft's temporary directory: 10843.6 MB
+0000.125 (0) Deleting old temporary file: log.fc5b9eaccf6d-browser.txt
+0000.166 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.239 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.300 (0) Semaphore (fd, wp_options) was stuck, set lock time to 2020-07-12 07:26:33
+0000.322 (0) Semaphore (fd, wp_options) reset to 1
+0000.352 (0) Set semaphore last lock (fd) time to 2020-07-12 07:26:33
+0000.392 (0) Semaphore lock (fd) complete
+0000.492 (0) Backup run: resumption=0, nonce=9069b4225756, file_nonce=9069b4225756 begun at=1594538793 (1s ago), job type=backup
+0000.544 (0) Scheduling a resumption (1) after 300 seconds (1594539094) in case this run gets aborted
+0000.711 (0) Checking if we have a zip executable available
+0000.881 (0) Creation of backups of directories: beginning
+0001.098 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0006.733 (0) Total entities for the zip file: 1218 directories, 6425 files (0 skipped as non-modified), 104.2 MB
+0006.810 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0008.044 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 100 files added (on-disk size: 200.1 KB)
+0008.944 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 200 files added (on-disk size: 200.1 KB)
+0009.417 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.4 MB, 265 (266) files added so far); re-opening (prior size: 200.1 KB)
+0010.203 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 300 files added (on-disk size: 1627 KB)
+0011.218 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 400 files added (on-disk size: 1627 KB)
+0012.152 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 500 files added (on-disk size: 1627 KB)
+0012.418 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 250 (516) files added so far); re-opening (prior size: 1627 KB)
+0014.486 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 600 files added (on-disk size: 2131.1 KB)
+0015.418 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.8 MB, 165 (681) files added so far); re-opening (prior size: 2131.1 KB)
+0015.887 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 700 files added (on-disk size: 2551 KB)
+0016.444 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 800 files added (on-disk size: 2551 KB)
+0017.397 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 900 files added (on-disk size: 2551 KB)
+0018.427 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4 MB, 314 (995) files added so far); re-opening (prior size: 2551 KB)
+0018.772 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 1000 files added (on-disk size: 4282.2 KB)
+0020.214 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 1100 files added (on-disk size: 4282.2 KB)
+0020.940 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 1200 files added (on-disk size: 4282.2 KB)
+0021.468 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (9.7 MB, 210 (1205) files added so far); re-opening (prior size: 4282.2 KB)
+0023.266 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 1300 files added (on-disk size: 7577.2 KB)
+0023.836 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 1400 files added (on-disk size: 7577.2 KB)
+0024.085 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 1500 files added (on-disk size: 7577.2 KB)
+0024.415 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (8.3 MB, 330 (1535) files added so far); re-opening (prior size: 7577.2 KB)
+0025.426 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 1600 files added (on-disk size: 10873.1 KB)
+0026.781 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 1700 files added (on-disk size: 10873.1 KB)
+0027.421 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.7 MB, 262 (1797) files added so far); re-opening (prior size: 10873.1 KB)
+0027.942 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 1800 files added (on-disk size: 11970.9 KB)
+0029.239 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 1900 files added (on-disk size: 11970.9 KB)
+0029.862 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 2000 files added (on-disk size: 11970.9 KB)
+0030.415 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.7 MB, 255 (2052) files added so far); re-opening (prior size: 11970.9 KB)
+0031.229 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 2100 files added (on-disk size: 14138.8 KB)
+0032.094 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 2200 files added (on-disk size: 14138.8 KB)
+0033.107 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 2300 files added (on-disk size: 14138.8 KB)
+0033.422 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.9 MB, 276 (2328) files added so far); re-opening (prior size: 14138.8 KB)
+0035.807 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 2400 files added (on-disk size: 16324.1 KB)
+0036.971 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 2500 files added (on-disk size: 16324.1 KB)
+0037.417 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.4 MB, 192 (2520) files added so far); re-opening (prior size: 16324.1 KB)
+0039.055 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 2600 files added (on-disk size: 17409.5 KB)
+0039.521 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 2700 files added (on-disk size: 17409.5 KB)
+0040.533 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 229 (2749) files added so far); re-opening (prior size: 17409.5 KB)
+0041.484 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 2800 files added (on-disk size: 17915.6 KB)
+0043.049 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 2900 files added (on-disk size: 17915.6 KB)
+0043.422 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 175 (2924) files added so far); re-opening (prior size: 17915.6 KB)
+0045.151 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 3000 files added (on-disk size: 18282.4 KB)
+0046.442 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 114 (3038) files added so far); re-opening (prior size: 18282.4 KB)
+0047.586 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 3100 files added (on-disk size: 18477.7 KB)
+0048.824 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 3200 files added (on-disk size: 18477.7 KB)
+0049.419 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.9 MB, 181 (3219) files added so far); re-opening (prior size: 18477.7 KB)
+0050.587 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 3300 files added (on-disk size: 19593.9 KB)
+0052.099 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 3400 files added (on-disk size: 19593.9 KB)
+0052.418 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.6 MB, 219 (3438) files added so far); re-opening (prior size: 19593.9 KB)
+0053.878 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 3500 files added (on-disk size: 21669 KB)
+0055.413 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 3600 files added (on-disk size: 21669 KB)
+0055.451 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.7 MB, 163 (3601) files added so far); re-opening (prior size: 21669 KB)
+0057.381 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 3700 files added (on-disk size: 22433.9 KB)
+0057.906 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 3800 files added (on-disk size: 22433.9 KB)
+0058.420 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.4 MB, 298 (3899) files added so far); re-opening (prior size: 22433.9 KB)
+0059.037 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 3900 files added (on-disk size: 24697.9 KB)
+0060.343 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 4000 files added (on-disk size: 24697.9 KB)
+0061.223 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 4100 files added (on-disk size: 24697.9 KB)
+0061.436 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (16.9 MB, 250 (4149) files added so far); re-opening (prior size: 24697.9 KB)
+0063.324 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 4200 files added (on-disk size: 29024.8 KB)
+0064.444 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 4300 files added (on-disk size: 29024.8 KB)
+0065.415 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 4400 files added (on-disk size: 29024.8 KB)
+0065.467 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.8 MB, 252 (4401) files added so far); re-opening (prior size: 29024.8 KB)
+0067.939 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 4500 files added (on-disk size: 29318.2 KB)
+0068.968 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 4600 files added (on-disk size: 29318.2 KB)
+0069.419 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 238 (4639) files added so far); re-opening (prior size: 29318.2 KB)
+0070.472 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 4700 files added (on-disk size: 29735.8 KB)
+0071.678 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 4800 files added (on-disk size: 29735.8 KB)
+0072.419 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 217 (4856) files added so far); re-opening (prior size: 29735.8 KB)
+0073.395 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 4900 files added (on-disk size: 30209.4 KB)
+0074.445 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 5000 files added (on-disk size: 30209.4 KB)
+0075.425 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 229 (5085) files added so far); re-opening (prior size: 30209.4 KB)
+0075.926 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 5100 files added (on-disk size: 30466.6 KB)
+0077.869 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 5200 files added (on-disk size: 30466.6 KB)
+0078.416 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 161 (5246) files added so far); re-opening (prior size: 30466.6 KB)
+0079.505 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 5300 files added (on-disk size: 31282.3 KB)
+0080.707 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 5400 files added (on-disk size: 31282.3 KB)
+0081.425 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 212 (5458) files added so far); re-opening (prior size: 31282.3 KB)
+0082.385 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 5500 files added (on-disk size: 31596.1 KB)
+0083.869 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 5600 files added (on-disk size: 31596.1 KB)
+0084.418 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.6 MB, 172 (5630) files added so far); re-opening (prior size: 31596.1 KB)
+0086.116 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 5700 files added (on-disk size: 32035.7 KB)
+0087.425 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 168 (5798) files added so far); re-opening (prior size: 32035.7 KB)
+0087.921 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 5800 files added (on-disk size: 32387.2 KB)
+0088.369 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 5900 files added (on-disk size: 32387.2 KB)
+0088.802 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 6000 files added (on-disk size: 32387.2 KB)
+0089.710 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 6100 files added (on-disk size: 32387.2 KB)
+0090.375 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 6200 files added (on-disk size: 32387.2 KB)
+0090.417 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7.8 MB, 404 (6202) files added so far); re-opening (prior size: 32387.2 KB)
+0092.999 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 6300 files added (on-disk size: 36642.5 KB)
+0093.587 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip.tmp: 6400 files added (on-disk size: 36642.5 KB)
+0094.883 (0) Created plugins zip (0) - 37224.3 KB in 93.6 s (397.6 KB/s) (sha1: ecf0e84eedeaa30cab4074e4cbfdcc52196130ee, sha256: b20ba566bcaf9fae5ee1833fa5e37dc449a012bfeb836b41af63323c65363316)
+0094.941 (0) Beginning creation of dump of themes (split every: 400 MB)
+0095.476 (0) Total entities for the zip file: 217 directories, 847 files (0 skipped as non-modified), 15.2 MB
+0096.088 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0096.611 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0097.369 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0097.416 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.8 MB, 304 (304) files added so far); re-opening (prior size: 0 KB)
+0098.403 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-themes.zip.tmp: 400 files added (on-disk size: 756.8 KB)
+0099.479 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-themes.zip.tmp: 500 files added (on-disk size: 756.8 KB)
+0100.417 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.6 MB, 253 (557) files added so far); re-opening (prior size: 756.8 KB)
+0101.076 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-themes.zip.tmp: 600 files added (on-disk size: 3623.2 KB)
+0102.316 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-themes.zip.tmp: 700 files added (on-disk size: 3623.2 KB)
+0103.419 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.3 MB, 235 (792) files added so far); re-opening (prior size: 3623.2 KB)
+0103.894 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-themes.zip.tmp: 800 files added (on-disk size: 6340 KB)
+0104.948 (0) Created themes zip (0) - 7175 KB in 10 s (720.1 KB/s) (sha1: d283d668dbeb7a4a05d0c3e1bf20122392b665fd, sha256: 07b782edc498f2cabd4f95707785b80848b311b722998b5a70c56933cc3d4d92)
+0105.017 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0105.048 (0) Looking for candidates to backup in: C:\Bitnami\wordpress-5.4.2-1\apps\wordpress\htdocs/wp-content/uploads
+0105.067 (0) finding files: 2018: adding to list (1)
+0105.096 (0) finding files: 2020: adding to list (2)
+0105.127 (0) finding files: astra-sites: adding to list (3)
+0105.148 (0) finding files: elementor: adding to list (4)
+0105.188 (0) finding files: maxmegamenu: adding to list (5)
+0105.209 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0105.403 (0) Total entities for the zip file: 11 directories, 287 files (0 skipped as non-modified), 24.9 MB
+0105.814 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0106.183 (0) Zip: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0107.117 (0) Created uploads zip (0) - 25091.3 KB in 1.9 s (13321.7 KB/s) (sha1: 7bef42a1889381744eec0173321ca6bee619d270, sha256: c166309cccfb3f506b2f6a51e9de2b86cf2cc1c73c46f068b88c7a487232a574)
+0107.187 (0) Beginning backup of other directories found in the content directory (index: 0)
+0107.208 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0107.228 (0) Looking for candidates to backup in: C:\Bitnami\wordpress-5.4.2-1\apps\wordpress\htdocs/wp-content
+0107.250 (0) finding files: index.php: adding to list (1)
+0107.284 (0) finding files: index.php-old: adding to list (2)
+0107.315 (0) finding files: languages: adding to list (3)
+0107.345 (0) finding files: languages-old: adding to list (4)
+0107.386 (0) finding files: plugins: skipping: this is the plugins directory
+0107.406 (0) finding files: plugins-old: adding to list (5)
+0107.427 (0) finding files: themes: skipping: this is the themes directory
+0107.448 (0) finding files: themes-old: adding to list (6)
+0107.469 (0) finding files: updraft: skipping: this is the updraft directory
+0107.499 (0) finding files: upgrade: skipping: excluded by options
+0107.519 (0) finding files: uploads: skipping: this is the uploads directory
+0107.540 (0) finding files: uploads-old: adding to list (7)
+0107.617 (0) Total entities for the zip file: 9 directories, 2 files (0 skipped as non-modified), 0 MB
+0107.778 (0) Created others zip (0) - 1.2 KB in 0.2 s (5.9 KB/s) (sha1: 83b589e8678ef3c28c88bbb56532c57e2ccb237e, sha256: c4b98a0611a6919c875f9cc25756eefc3d74a28d75e50dbfe92fefabfd138bd9)
+0107.910 (0) Saving backup status to database (elements: 8)
+0107.999 (0) Beginning creation of database dump (WordPress DB)
+0110.092 (0) Table wp_options: Total expected rows (approximate): 335
+0110.225 (0) Table wp_options: Rows added in this batch (start page: 0; next: finished): 339 in 0.10 seconds
+0110.250 (0) Table wp_options: finishing file (backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_options.table.gz - 299.8 KB)
+0110.366 (0) Table wp_users: Total expected rows (approximate): 0
+0110.399 (0) Table wp_users: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0110.432 (0) Table wp_users: finishing file (backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_users.table.gz - 0.6 KB)
+0110.541 (0) Table wp_usermeta: Total expected rows (approximate): 25
+0110.563 (0) Table wp_usermeta: Rows added in this batch (start page: 0; next: finished): 25 in 0.00 seconds
+0110.624 (0) Table wp_usermeta: finishing file (backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_usermeta.table.gz - 1.4 KB)
+0110.905 (0) Table wp_actionscheduler_actions: Total expected rows (approximate): 14
+0110.980 (0) Table wp_actionscheduler_actions: Rows added in this batch (start page: 0; next: finished): 15 in 0.00 seconds
+0111.053 (0) Table wp_actionscheduler_actions: finishing file (backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_actionscheduler_actions.table.gz - 1.2 KB)
+0111.340 (0) Table wp_actionscheduler_claims: Total expected rows (approximate): 0
+0111.403 (0) Table wp_actionscheduler_claims: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0111.498 (0) Table wp_actionscheduler_claims: finishing file (backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_actionscheduler_claims.table.gz - 0.3 KB)
+0111.807 (0) Table wp_actionscheduler_groups: Total expected rows (approximate): 2
+0111.890 (0) Table wp_actionscheduler_groups: Rows added in this batch (start page: 0; next: finished): 2 in 0.00 seconds
+0111.970 (0) Table wp_actionscheduler_groups: finishing file (backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_actionscheduler_groups.table.gz - 0.4 KB)
+0112.118 (0) Table wp_actionscheduler_logs: Total expected rows (approximate): 39
+0112.160 (0) Table wp_actionscheduler_logs: Rows added in this batch (start page: 0; next: finished): 41 in 0.01 seconds
+0112.185 (0) Table wp_actionscheduler_logs: finishing file (backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_actionscheduler_logs.table.gz - 0.9 KB)
+0112.304 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0112.346 (0) Table wp_commentmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0112.371 (0) Table wp_commentmeta: finishing file (backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0112.489 (0) Table wp_comments: Total expected rows (approximate): 0
+0112.521 (0) Table wp_comments: Rows added in this batch (start page: 0; next: finished): 1 in 0.01 seconds
+0112.555 (0) Table wp_comments: finishing file (backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_comments.table.gz - 0.7 KB)
+0112.658 (0) Table wp_links: Total expected rows (approximate): 0
+0112.690 (0) Table wp_links: Rows added in this batch (start page: 0; next: finished): 0 in 0.01 seconds
+0112.715 (0) Table wp_links: finishing file (backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_links.table.gz - 0.4 KB)
+0112.823 (0) Table wp_postmeta: Total expected rows (approximate): 1246
+0112.936 (0) Table wp_postmeta: Rows added in this batch (start page: 0; next: finished): 1235 in 0.08 seconds
+0112.962 (0) Table wp_postmeta: finishing file (backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_postmeta.table.gz - 113.8 KB)
+0113.089 (0) Table wp_posts: Total expected rows (approximate): 167
+0113.141 (0) Table wp_posts: Rows added in this batch (start page: 0; next: finished): 174 in 0.03 seconds
+0113.178 (0) Table wp_posts: finishing file (backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_posts.table.gz - 19.6 KB)
+0113.291 (0) Table wp_term_relationships: Total expected rows (approximate): 9
+0113.317 (0) Table wp_term_relationships: Rows added in this batch (start page: 0; next: finished): 9 in 0.01 seconds
+0113.352 (0) Table wp_term_relationships: finishing file (backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0113.462 (0) Table wp_term_taxonomy: Total expected rows (approximate): 5
+0113.484 (0) Table wp_term_taxonomy: Rows added in this batch (start page: 0; next: finished): 5 in 0.00 seconds
+0113.518 (0) Table wp_term_taxonomy: finishing file (backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_term_taxonomy.table.gz - 0.5 KB)
+0113.626 (0) Table wp_termmeta: Total expected rows (approximate): 4
+0113.658 (0) Table wp_termmeta: Rows added in this batch (start page: 0; next: finished): 3 in 0.01 seconds
+0113.683 (0) Table wp_termmeta: finishing file (backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_termmeta.table.gz - 0.4 KB)
+0113.783 (0) Table wp_terms: Total expected rows (approximate): 5
+0113.806 (0) Table wp_terms: Rows added in this batch (start page: 0; next: finished): 5 in 0.00 seconds
+0113.840 (0) Table wp_terms: finishing file (backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_terms.table.gz - 0.4 KB)
+0113.938 (0) Table wp_wpforms_tasks_meta: Total expected rows (approximate): 7
+0113.975 (0) Table wp_wpforms_tasks_meta: Rows added in this batch (start page: 0; next: finished): 8 in 0.02 seconds
+0114.102 (0) Table wp_wpforms_tasks_meta: finishing file (backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_wpforms_tasks_meta.table.gz - 0.5 KB)
+0115.150 (0) backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_options.table.gz (1/17): adding to final database dump
+0115.239 (0) backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_users.table.gz (2/17): adding to final database dump
+0115.260 (0) backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_usermeta.table.gz (3/17): adding to final database dump
+0115.291 (0) backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_actionscheduler_actions.table.gz (4/17): adding to final database dump
+0115.313 (0) backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_actionscheduler_claims.table.gz (5/17): adding to final database dump
+0115.343 (0) backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_actionscheduler_groups.table.gz (6/17): adding to final database dump
+0115.374 (0) backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_actionscheduler_logs.table.gz (7/17): adding to final database dump
+0115.404 (0) backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_commentmeta.table.gz (8/17): adding to final database dump
+0115.444 (0) backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_comments.table.gz (9/17): adding to final database dump
+0115.475 (0) backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_links.table.gz (10/17): adding to final database dump
+0115.506 (0) backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_postmeta.table.gz (11/17): adding to final database dump
+0115.567 (0) backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_posts.table.gz (12/17): adding to final database dump
+0115.592 (0) backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_term_relationships.table.gz (13/17): adding to final database dump
+0115.619 (0) backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_term_taxonomy.table.gz (14/17): adding to final database dump
+0115.649 (0) backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_termmeta.table.gz (15/17): adding to final database dump
+0115.680 (0) backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_terms.table.gz (16/17): adding to final database dump
+0115.711 (0) backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db-table-wp_wpforms_tasks_meta.table.gz (17/17): adding to final database dump
+0115.759 (0) backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db.gz: finished writing out complete database file (416 KB)
+0115.869 (0) Total database tables backed up: 17 (backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db.gz, size: 448570, sha1: da09a34155dae5e16cfce4c4fec17bf9d33592bb, sha256: 9d014818fc11cc0172f6a6651626229b122fdf5f8b0187f194bd9a7d33dfbf8f)
+0115.972 (0) backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0116.003 (0) backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0116.043 (0) backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0116.073 (0) backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-others.zip: others: This file has not yet been successfully uploaded: will queue
+0116.094 (0) backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db.gz: db: This file has not yet been successfully uploaded: will queue
+0116.114 (0) Saving backup history. Total backup size: 68.3 MB
+0116.176 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0116.257 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0116.278 (0) No remote despatch: user chose no remote backup service
+0116.308 (0) Recording as successfully uploaded: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-plugins.zip
+0116.369 (0) Recording as successfully uploaded: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-themes.zip
+0116.417 (0) Recording as successfully uploaded: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-uploads.zip
+0116.466 (0) Recording as successfully uploaded: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-others.zip
+0116.519 (0) Recording as successfully uploaded: backup_2020-07-12-0726_Hearth_Bound_Podcast_9069b4225756-db.gz
+0116.601 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0116.641 (0) Number of backup sets in history: 2; groups (db): 1
+0116.671 (0) Examining (for databases) backup set with group_id=0, nonce=9069b4225756, datestamp=1594538793 (Jul 12 2020 07:26:33)
+0116.701 (0) This backup set is the backup set just made, so will not be deleted.
+0116.701 (0) Examining (for databases) backup set with group_id=0, nonce=50bdb342e21f, datestamp=1594301623 (Jul 09 2020 13:33:43)
+0116.701 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0116.741 (0) Number of backup sets in history: 2; groups (files): 1
+0116.762 (0) Examining (for files) backup set with nonce=9069b4225756, datestamp=1594538793 (Jul 12 2020 07:26:33)
+0116.762 (0) This backup set is the backup set just made, so will not be deleted.
+0116.783 (0) This backup set is the backup set just made, so will not be deleted.
+0116.783 (0) This backup set is the backup set just made, so will not be deleted.
+0116.783 (0) This backup set is the backup set just made, so will not be deleted.
+0116.783 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0116.803 (0) Examining (for files) backup set with nonce=50bdb342e21f, datestamp=1594301623 (Jul 09 2020 13:33:43)
+0116.803 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0116.804 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0116.874 (0) Resume backup (9069b4225756, 0): finish run
+0116.946 (0) Decremented the semaphore (fd) by 1
+0116.997 (0) Semaphore (fd) unlocked
+0117.018 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0117.107 (0) No email will/can be sent - the user has not configured an email address.
+0117.128 (0) The backup apparently succeeded and is now complete
